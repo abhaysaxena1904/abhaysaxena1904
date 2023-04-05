@@ -33,4 +33,4 @@
 
 
 <h3 align="left">GitHub Badges</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhaysaxena1904&theme=gruvbox" alt="abhaysaxena1904" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhaysaxena1904&theme=darkhub" alt="abhaysaxena1904" /></a> </p>

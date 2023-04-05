@@ -5,7 +5,7 @@
 
 - Currently working in Tiger Analytics as Senior Software Engineer, in Big Data Azure. 
 
-- Check out my projects on [![GitHub Badge](http://img.shields.io/badge/-@abhaysaxena1904-1ca0f1?style=social&logo=github&logoColor=black&link=https://github.com/abhaysaxena1904/)](https://github.com/abhaysaxena1904/) 
+- Check out my projects on [![GitHub Badge](http://img.shields.io/badge/-@abhaysaxena1904-1ca0f1?style=social&logo=github&logoColor=black&link=https://github.com/abhaysaxena1904?tab=repositories)](https://github.com/abhaysaxena1904?tab=repositories) 
 - Check out my profile on [![Linkedin Badge](https://img.shields.io/badge/-AbhaySaxena-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/abhaysaxena1904)](https://www.linkedin.com/in/abhaysaxena1904/)
 - Follow me on [![Instagram Badge](http://img.shields.io/badge/-@abhay1904-1ca0f1?style=social&logo=instagram&logoColor=red&link=https://www.instagram.com/abhay1904/)](https://www.instagram.com/abhay1904/)  [![Twitter Badge](http://img.shields.io/badge/-@abhay1904-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/19abhay96/)](https://twitter.com/19abhay96/) 
 

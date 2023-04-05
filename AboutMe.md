@@ -28,8 +28,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhaysaxena1904&" alt="abhaysaxena1904" /></p>
  -->
 
-<h3 align="left">Microsoft Azure Certificates</h3>
-<p align="left"> <a href="https://www.credly.com/badges/ad68ff43-8728-4c24-b981-243d633b4971/public_url"><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="Azure Data Fundamentals" width="100" height="100"/></a> <a href="https://www.credly.com/badges/45c6157c-2c2d-40e5-bc6b-3c28673ce1aa/public_url"><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="Azure Fundamentals" width="100" height="100"/></a> </p>
+<h3 align="left">Certificates</h3>
+<p align="left"> <a href="https://www.credly.com/badges/ad68ff43-8728-4c24-b981-243d633b4971/public_url"><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="Azure Data Fundamentals" width="100" height="100"/></a> <a href="https://www.credly.com/badges/45c6157c-2c2d-40e5-bc6b-3c28673ce1aa/public_url"><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="Azure Fundamentals" width="100" height="100"/></a> <a href="https://www.credential.net/9cff8fa0-0812-4d67-b042-9de89ac940c3#gs.uijrp9"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="Azure Data Fundamentals" width="90" height="90"/> </p>
+
 
 <h3 align="left">GitHub Badges</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhaysaxena1904" alt="abhaysaxena1904" /></a> </p>
